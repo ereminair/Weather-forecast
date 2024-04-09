@@ -1,0 +1,9 @@
+{
+  "town": [
+    "Saransk",
+    "Saint Petersburg",
+    "Yessentuki"
+  ],
+  "count_days" : 3,
+  "frequency" : 10
+}
